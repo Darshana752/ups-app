@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-UpsApplication<ups>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.example.ups.UpsApplication",
+      "projectName": "ups",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
